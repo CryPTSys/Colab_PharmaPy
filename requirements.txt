@@ -1,6 +1,6 @@
 numpy<1.26
 cython<3
 scipy
-assimulo==3.4.3
+assimulo==3.7
 matplotlib
 pandas
